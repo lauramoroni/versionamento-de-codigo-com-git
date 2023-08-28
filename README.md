@@ -11,7 +11,8 @@ Repositório para armazenar resumos sobre Git e GitHub do curso de Versionamento
 |-------|---------|
 | Git e GitHub | [Resumos](https://www.notion.so/GitHub-86ad92b532e44d2b97471b7bcbf20c8e) |
 | Alterações no repositório local |
-| Resumo Aula 01 | 
+| Aula 01 | [Resumo]() |
+| Aula 02 | [Resumo]() |
 
 ## Refêrencias 
 - [Digital Innovation One](https://www.dio.me/)
